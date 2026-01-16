@@ -1,4 +1,19 @@
-# Cebimizdeki Casus: Pegasus ve Dijital Takip Çağının Karanlık Yüzü
+---
+title: "Cebimizdeki Casus: Pegasus ve Dijital Takip Çağının Karanlık Yüzü"
+date: 2026-01-16T02:40:00+03:00
+categories: ["Siber Güvenlik", "Teknoloji Tarihi", "Dijital Medya"]
+tags:
+  [
+    "Pegasus",
+    "NSOGroup",
+    "CyberSecurity",
+    "DigitalSurveillance",
+    "Privacy",
+    "ZeroClick",
+    "TechHistory",
+    "Spyware",
+  ]
+---
 
 Yıl 2016, Birleşik Arap Emirlikleri. Aktivist Ahmet Mansur’un telefonuna düşen basit bir kısa mesaj, modern tarihin en korkutucu dijital silahlarından birini gün yüzüne çıkardı. Mansur, o linke tıklasaydı başına geleceklerden habersizdi; ancak o gün sergilediği şüphecilik, **Pegasus** adlı hayalet yazılımın maskesini düşüren ilk adım oldu.
 
@@ -45,8 +60,3 @@ Pegasus skandalı bize şunu öğretti: En güvenli kabul ettiğimiz cihazlar bi
 
 > [!WARNING]
 > Dijital mahremiyetin sona erdiği bir dünyada, sadece suçlular değil, "farklı düşünen" herkes potansiyel bir hedeftir.
-
----
-
-**Kategori:** Siber Güvenlik, Teknoloji Tarihi, Dijital Medya
-**Etiketler:** #Pegasus #NSOGroup #CyberSecurity #DigitalSurveillance #Privacy #ZeroClick #TechHistory #Spyware

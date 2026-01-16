@@ -1,4 +1,18 @@
-# İnterneti İcat Edip Neden Milyarder Olamadı? – WWW’nun Gerçek Hikâyesi
+---
+title: "İnterneti İcat Edip Neden Milyarder Olamadı? – WWW’nun Gerçek Hikâyesi"
+date: 2026-01-16T03:40:00+03:00
+categories: ["Teknoloji Tarihi", "İnternet", "İnsan Hikâyeleri"]
+tags:
+  [
+    "TimBernersLee",
+    "WWW",
+    "CERN",
+    "İnternetTarihi",
+    "HTML",
+    "W3C",
+    "SolidProject",
+  ]
+---
 
 Yıl 1989. Yer Cenevre, CERN (Avrupa Nükleer Araştırma Merkezi). Binlerce bilim insanı evrenin sırlarını çözmeye çalışıyor ama çok basit bir sorunları var: **Bilgiye ulaşamıyorlar.** Herkes farklı bilgisayarlar, farklı protokoller kullanıyor; bir araştırmacının verisine ulaşmak labirentte kaybolmak gibi.
 
@@ -24,7 +38,7 @@ Tim, bugünkü internetin üç temel direğini kodladı:
 
 1993 yılına gelindiğinde web'in karşısında güçlü bir rakip vardı: **Gopher.** Minnesota Üniversitesi, Gopher'ın ticari kullanımı için lisans ücreti talep edeceğini duyurunca, Tim Berners-Lee tarihi bir hamle yaptı.
 
-CERN yönetimini ikna etti ve 30 Nisan 1993'te bir feragatname imzalandı: **World Wide Web artık kamu malıydı.** Telif hakkı yok, lisans ücreti yok, izin alma zorunluluğu yok. Tim, patent alıp milyarder olmayı değil, icadının evrensel olmasını ve tüm insanlığa ait kalmasını seçti.
+CERN yönetimini ikna etti ve 30 Nisan 1993'te bir feragatname imzalandı: **World Wide Web artık kamu malıydı.** Telif hakkı yok, lisans ücreti yok, izin alma zorunlulu 勇 yok. Tim, patent alıp milyarder olmayı değil, icadının evrensel olmasını ve tüm insanlığa ait kalmasını seçti.
 
 ---
 
@@ -56,8 +70,3 @@ Solid'in amacı, veriyi uygulamalardan ayırmak. Fotoğraflarınız, beğenileri
 Tim Berners-Lee'nin milyarder olmamasının nedeni başarısızlığı değil; vizyonunun ta kendisidir. Onun patent almayı reddetmesi, bugün Google, Facebook, Amazon gibi devlerin ve milyar dolarlık endüstrilerin doğabilmesini sağladı.
 
 O, parasını icadından değil, icadını savunmak için verdiği hizmetlerden kazandı. Kraliçe tarafından "Sir" unvanı verildi, Turing Ödülü'nü kazandı. Ama onun en büyük serveti, bugün bu yazıyı okumanızı sağlayan o özgür ve ücretsiz dünyayı bize hediye etmesidir.
-
----
-
-**Kategori:** Teknoloji Tarihi, İnternet, İnsan Hikâyeleri
-**Etiketler:** #TimBernersLee #WWW #CERN #İnternetTarihi #HTML #W3C #SolidProject

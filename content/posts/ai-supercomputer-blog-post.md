@@ -1,4 +1,10 @@
-# 5 Mac Studio ile Dev Yapay Zeka Kümesi Kurmak: Ev Yapımı Bir Süper Bilgisayar
+---
+title: "5 Mac Studio ile Dev Yapay Zeka Kümesi Kurmak: Ev Yapımı Bir Süper Bilgisayar"
+date: 2026-01-16T04:20:00+03:00
+categories: ["Yapay Zeka", "Donanım", "Rehber"]
+tags:
+  ["MacStudio", "AI", "Llama3", "EXOLabs", "Supercomputer", "MachineLearning"]
+---
 
 Llama 3.1 405B gibi devasa yapay zeka modellerini evde çalıştırmak mümkün mü? Genelde bu çapta modeller, evlerimizden daha pahalı sunucularda, devasa veri merkezlerinde çalıştırılır. Ancak bugün sınırları zorluyoruz: **5 adet Mac Studio'yu birbirine bağlayarak kendi yapay zeka kümemizi oluşturuyoruz.**
 
@@ -53,8 +59,3 @@ Yapay zeka modelleri geliştikçe, donanım gereksinimleri de artıyor. Ancak EX
 
 > [!TIP]
 > Kendi kümenizi kurmak isterseniz Python 3.12 ve `pip install mlx` kütüphanelerini kurarak başlayabilirsiniz.
-
----
-
-**Kategori:** Yapay Zeka, Donanım, Rehber
-**Etiketler:** #MacStudio #AI #Llama3 #EXOLabs #Supercomputer #MachineLearning

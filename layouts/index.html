@@ -15,8 +15,20 @@
     <article class="post-card">
       <a class="post-card-link" href="{{ .RelPermalink }}">
         <h3>{{ .Title }}</h3>
-        <p class="meta">{{ partial "post-date.html" . }}</p>
-        <p>{{ .Summary }}</p>
+        <div class="card-meta">
+          <span class="meta">{{ partial "post-date.html" . }}</span>
+          {{ with .Params.categories }}
+            <span class="card-category">{{ index . 0 }}</span>
+          {{ end }}
+        </div>
+        <p class="card-summary">{{ .Summary }}</p>
+        {{ with .Params.tags }}
+          <div class="card-tags">
+            {{ range first 3 . }}
+              <span class="card-tag">#{{ . }}</span>
+            {{ end }}
+          </div>
+        {{ end }}
       </a>
     </article>
   {{ else }}

@@ -1,4 +1,18 @@
-# Silk Road: İnternetin Kara Borsası ve Ross Ulbricht’in Destansı Çöküşü
+---
+title: "Silk Road: İnternetin Kara Borsası ve Ross Ulbricht’in Destansı Çöküşü"
+date: 2026-01-16T02:30:00+03:00
+categories: ["Teknoloji Tarihi", "Darknet", "Kripto Paralar"]
+tags:
+  [
+    "SilkRoad",
+    "RossUlbricht",
+    "Bitcoin",
+    "Darknet",
+    "DreadPirateRoberts",
+    "FBI",
+    "TorNetwork",
+  ]
+---
 
 "Bilgi güçtür. Ancak her güç gibi, onu sadece kendilerine saklamak isteyenler var." Bu sözler sadece aktivistlerin değil, internet tarihinin en tartışmalı pazar yerini kuran adamın, **Ross Ulbricht**'in de felsefesini oluşturuyordu.
 
@@ -48,8 +62,3 @@ Silk Road kapandı ama arkasında devasa bir gölge bıraktı. Bugün kullanıla
 
 > [!IMPORTANT]
 > Silk Road, teknolojinin sadece bir araç olduğunu; onu kullananın niyetinin ise dünyayı ya daha özgür ya da daha tehlikeli hale getirebileceğini gösteren en büyük örnektir.
-
----
-
-**Kategori:** Teknoloji Tarihi, Darknet, Kripto Paralar
-**Etiketler:** #SilkRoad #RossUlbricht #Bitcoin #Darknet #DreadPirateRoberts #FBI #TorNetwork

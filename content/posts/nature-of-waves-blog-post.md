@@ -1,4 +1,19 @@
-# Dalgalar Aslında Sudan Oluşmaz: Evrenin Gizli Enerji Dansı
+---
+title: "Dalgalar Aslında Sudan Oluşmaz: Evrenin Gizli Enerji Dansı"
+date: 2026-01-16T03:20:00+03:00
+categories: ["Bilim", "Felsefe", "Doğa"]
+tags:
+  [
+    "Dalgalar",
+    "Fizik",
+    "Enerji",
+    "Hokusai",
+    "Okyanus",
+    "BarışÖzcan",
+    "DoğaFelsefesi",
+    "BilimVeSanat",
+  ]
+---
 
 Japon sanatçı Hokusai'nin o meşhur eserini bilirsiniz: _Kanagawa'daki Büyük Dalga._ O pençe gibi kıvrılmış devasa su kütlesi, altındaki çaresiz tekneleri yutmak üzeredir. Yüzyıllar boyunca bu çizim sadece bir sanatçının hayal gücü sanıldı. Ta ki 1995 yılının ilk gününe kadar...
 
@@ -40,8 +55,3 @@ Biz de tıpkı okyanusun içinden geçen o geçici enerji formları gibiyiz. Evr
 
 > [!TIP]
 > Dalgaların bu felsefi ve bilimsel yolculuğunu daha derinden hissetmek için Barış Özcan'ın "Dalgalar Aslında Sudan Oluşmaz" videosunu izlemenizi öneririm.
-
----
-
-**Kategori:** Bilim, Felsefe, Doğa
-**Etiketler:** #Dalgalar #Fizik #Enerji #Hokusai #Okyanus #BarışÖzcan #DoğaFelsefesi #BilimVeSanat

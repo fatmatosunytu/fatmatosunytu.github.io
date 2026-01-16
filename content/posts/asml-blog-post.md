@@ -1,4 +1,19 @@
-# Dünyayı Kontrol Eden Gizli Dev: ASML ve Işığın Mühendisliği
+---
+title: "Dünyayı Kontrol Eden Gizli Dev: ASML ve Işığın Mühendisliği"
+date: 2026-01-16T04:10:00+03:00
+categories: ["Teknoloji Tarihi", "Ekonomi", "Mühendislik"]
+tags:
+  [
+    "ASML",
+    "EUV",
+    "Semiconductor",
+    "Lithography",
+    "ChipWar",
+    "TechHistory",
+    "Engineering",
+    "ZeenithOfLight",
+  ]
+---
 
 Bu sabah uyandığınızda elinizin ilk uzandığı o akıllı telefonun kalbinde, gezegenin en karmaşık tedarik zincirinin son halkası yatıyordu. Apple, NVIDIA veya Intel; hangi devden bahsederseniz bahsedin, hepsi sessizce tek bir ismin önünde diz çöküyor: **ASML.**
 
@@ -38,8 +53,3 @@ ASML’nin hikayesi, sabrın ve imkansız bir vizyona yatırım yapmanın hikaye
 
 > [!IMPORTANT]
 > ASML bir pazar lideri değildir; ASML bir tekeldir. Ve modern dünya, onların ürettiği o devasa makinelerin içindeki kusursuz vakum ortamına bağlıdır.
-
----
-
-**Kategori:** Teknoloji Tarihi, Ekonomi, Mühendislik
-**Etiketler:** #ASML #EUV #Semiconductor #Lithography #ChipWar #TechHistory #Engineering #ZeenithOfLight

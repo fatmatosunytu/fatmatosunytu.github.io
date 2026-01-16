@@ -1,4 +1,19 @@
-# NVIDIA: Devletler Bile Ona Muhtaç – Bir Restoran Masasından Dünya Liderliğine
+---
+title: "NVIDIA: Devletler Bile Ona Muhtaç – Bir Restoran Masasından Dünya Liderliğine"
+date: 2026-01-16T03:00:00+03:00
+categories: ["Teknoloji Tarihi", "Yapay Zeka", "Ekonomi"]
+tags:
+  [
+    "NVIDIA",
+    "JensenHuang",
+    "GPU",
+    "AI",
+    "H100",
+    "CUDA",
+    "Blackwell",
+    "Teknoloji",
+  ]
+---
 
 Yıl 1993. Yer San Jose, California. Silikon Vadisi'nin kıyısında, kahvesi acı, omleti yağlı sıradan bir yol üstü restoranı (Denny's). Masada üç mühendis: Chris Malachowsky, Curtis Priem ve henüz 30 yaşında olan **Jensen Huang**. Ceplerinde sadece 40.000 dolar var ama kağıt peçetelerin üzerine dünyanın geleceğini çiziyorlar: **3D Grafik Devrimi.**
 
@@ -54,8 +69,3 @@ Denny's restoranındaki o lekeli masadan kalkan NVIDIA, bugün modern medeniyeti
 
 > [!IMPORTANT]
 > Bu yazı, NVIDIA'nın 31 yıllık yolculuğunu ve yapay zeka dünyasındaki mutlak hakimiyetini özetlemektedir.
-
----
-
-**Kategori:** Teknoloji Tarihi, Yapay Zeka, Ekonomi
-**Etiketler:** #NVIDIA #JensenHuang #GPU #AI #H100 #CUDA #Blackwell #Teknoloji

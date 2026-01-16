@@ -1,4 +1,19 @@
-# PayPal Mafyası: Dünyayı Değiştiren İmparatorluk!
+---
+title: "PayPal Mafyası: Dünyayı Değiştiren İmparatorluk!"
+date: 2026-01-16T02:50:00+03:00
+categories: ["Girişimcilik", "Teknoloji Tarihi", "Silikon Vadisi"]
+tags:
+  [
+    "PayPalMafia",
+    "ElonMusk",
+    "PeterThiel",
+    "SiliconValley",
+    "Startup",
+    "Tesla",
+    "YouTube",
+    "LinkedIn",
+  ]
+---
 
 2011 yılında _Fortune_ dergisi bir fotoğraf yayınladı ve teknoloji dünyasına yeni bir terim armağan etti: **PayPal Mafyası.** Fotoğrafta Silikon Vadisi'nin en güçlü isimleri bir araya gelmişti. Onlar sadece bir ödeme platformu kurmamışlardı; modern teknoloji dünyasının parmak izlerini taşıyan koca bir imparatorluk inşa etmişlerdi.
 
@@ -44,12 +59,7 @@ Cebinde milyon dolarlar olan bu hırslı ekip, Silikon Vadisi'ne dağılarak ken
 
 PayPal Mafyası'nın başarısı tesadüf değildi. Onlar sadece meslektaş değil, birbirine yatırım yapan, birbirini destekleyen ve devasa riskler alan bir aileydiler. Bugün Silikon Vadisi'nde başarılı bir girişimciyseniz, yolunuzun bu isimlerden biriyle kesişmemesi neredeyse imkansız.
 
-Yalnızca bir şirket kurmak yetmez; bir kültür ve network yaratmak gerekir. PayPal Mafyası, bize bir grubun dünyayı nasıl yeniden şekillendirebileceğinin en somut örneğini sundu.
+Yalnızca bir şirket kurmak yetmez; bir kültür and network yaratmak gerekir. PayPal Mafyası, bize bir grubun dünyayı nasıl yeniden şekillendirebileceğinin en somut örneğini sundu.
 
 > [!TIP]
 > PayPal Mafyası'nın felsefesini merak ediyorsanız, Peter Thiel'ın **"Zero to One" (Sıfırdan Bire)** kitabını mutlaka okumalısınız.
-
----
-
-**Kategori:** Girişimcilik, Teknoloji Tarihi, Silikon Vadisi
-**Etiketler:** #PayPalMafia #ElonMusk #PeterThiel #SiliconValley #Startup #Tesla #YouTube #LinkedIn

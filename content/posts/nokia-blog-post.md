@@ -1,4 +1,10 @@
-# Nokia’nın Yükselişi ve Çöküşü: Bir İmparatorluğun Gerçek Hikâyesi
+---
+title: "Nokia’nın Yükselişi ve Çöküşü: Bir İmparatorluğun Gerçek Hikâyesi"
+date: 2026-01-16T03:10:00+03:00
+categories: ["Teknoloji Tarihi", "İş Dünyası", "İnovasyon"]
+tags:
+  ["Nokia", "3310", "Symbian", "Telekom", "5G", "Teknoloji", "FredrikIdestam"]
+---
 
 Yıl 1865. Finlandiya'nın serin nehir kıyılarında Fredrik Idestam adında bir mühendis, basit bir odun hamuru değirmeni kurdu. Amacı sadece kağıt üretmekti. O gün kimse bu mütevazı başlangıcın, bir asır sonra dünyayı birbirine bağlayan bir teknoloji devine dönüşeceğini tahmin edemezdi.
 
@@ -64,8 +70,3 @@ Bugün Nokia:
 ## Sonuç: Değişim ya da Yok Oluş
 
 Nokia'nın hikayesi, inovasyonun sadece donanım değil, bir ekosistem meselesi olduğunu tüm dünyaya öğretti. Bir zamanlar "herkesin cebindeki telefon" olan Nokia, bugün dünyanın görmediği ama iletişimin kalbinde atan devasa bir ağ altyapısı olarak yaşamaya devam ediyor.
-
----
-
-**Kategori:** Teknoloji Tarihi, İş Dünyası, İnovasyon
-**Etiketler:** #Nokia #3310 #Symbian #Telekom #5G #Teknoloji #FredrikIdestam

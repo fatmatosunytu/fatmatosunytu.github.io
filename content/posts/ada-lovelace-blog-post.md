@@ -1,4 +1,18 @@
-# Bilgisayar Çağını Başlatan Kadın: Ada Lovelace
+---
+title: "Bilgisayar Çağını Başlatan Kadın: Ada Lovelace"
+date: 2026-01-16T04:44:02+03:00
+categories: ["Bilim Tarihi", "Kadın ve Teknoloji", "Bilişim"]
+tags:
+  [
+    "AdaLovelace",
+    "ComputingHistory",
+    "FirstProgrammer",
+    "CharlesBabbage",
+    "WomenInSTEM",
+    "PoeticalScience",
+    "AlgorithmHistory",
+  ]
+---
 
 Bugün akıllı telefonlarımızdan bankacılık işlemlerimize kadar her şey, görünmez kodların okyanusunda yüzüyor. Peki, bu dijital evrenin ilk mimarının, 200 yıl önce yaşamış, henüz elektriğin bile olmadığı bir dünyada "şiirsel bilim" yapan bir kadın olduğunu söylesem?
 
@@ -44,8 +58,3 @@ Ada Lovelace, bilişimin ilk sorusunu sordu: _"Makineler ne yapabilir?"_ Bugün 
 
 > [!NOTE]
 > Ada Lovelace, mantığın buz gibi gerçeklerini hayal gücünün sınırsız ateşinde eriterek "Poetical Science" (Şiirsel Bilim) kavramını dünyaya armağan etmiştir.
-
----
-
-**Kategori:** Bilim Tarihi, Kadın ve Teknoloji, Bilişim
-**Etiketler:** #AdaLovelace #ComputingHistory #FirstProgrammer #CharlesBabbage #WomenInSTEM #PoeticalScience #AlgorithmHistory

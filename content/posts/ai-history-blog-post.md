@@ -1,4 +1,19 @@
-# Yapay Zeka Tarihi: Makinelerin Düşleme Yolculuğu
+---
+title: "Yapay Zeka Tarihi: Makinelerin Düşleme Yolculuğu"
+date: 2026-01-16T04:30:00+03:00
+categories: ["Teknoloji Tarihi", "Yapay Zeka", "Gelecek Bilimi"]
+tags:
+  [
+    "YapayZeka",
+    "TuringTest",
+    "HistoryOfAI",
+    "DeepLearning",
+    "ChatGPT",
+    "NVIDIA",
+    "FutureTech",
+    "EthicsInAI",
+  ]
+---
 
 Yıl 1939. Yer İngiltere’deki Bletchley Park. Dünya bir savaşın eşiğinde sallanırken, dahi bir matematikçi olan **Alan Turing**, Nazilerin "kırılmaz" denilen Enigma şifresini çözmek için vakum tüplerinin titrek ışığı altında çalışıyordu. Turing’in zihninde sadece bir savaş stratejisi değil, insanlığın zeka tanımını kökten değiştirecek o soru vardı: _"Makineler düşünebilir mi?"_
 
@@ -45,8 +60,3 @@ Alan Turing’in 1950’deki sorusu bugün cevaplandı: Makineler, bizim anladı
 
 > [!CAUTION]
 > Yapay zeka bir ayna gibidir; içinde gördüklerimiz aslında bizim zekamızın, önyargılarımızın ve hayallerimizin yansımasıdır.
-
----
-
-**Kategori:** Teknoloji Tarihi, Yapay Zeka, Gelecek Bilimi
-**Etiketler:** #YapayZeka #TuringTest #HistoryOfAI #DeepLearning #ChatGPT #NVIDIA #FutureTech #EthicsInAI

@@ -1,4 +1,19 @@
-# Gizli Ağ: Şili’nin Sosyalist İnterneti Cybersyn
+---
+title: "Gizli Ağ: Şili’nin Sosyalist İnterneti Cybersyn"
+date: 2026-01-16T03:50:00+03:00
+categories: ["Teknoloji Tarihi", "Sosyoloji", "Sibernetik"]
+tags:
+  [
+    "Cybersyn",
+    "StaffordBeer",
+    "ChileHistory",
+    "ComputingHistory",
+    "Cybernetics",
+    "RetroFuturism",
+    "ProjectCybersyn",
+    "InternetHistory",
+  ]
+---
 
 Yıl 1970, Santiago. Salvador Allende, demokratik seçimlerle iktidara gelen ilk Marksist lider olarak Şili tarihini değiştirirken, Şili ekonomisini de modern bir "sinir sistemi" gibi yönetecek fütüristik bir hayali gerçeğe dönüştürmek üzereydi. Bu hayalin adı: **Project Cybersyn.**
 
@@ -42,8 +57,3 @@ Bugün Amazon veya Walmart gibi devlerin kullandığı gerçek zamanlı stok ve 
 
 > [!CAUTION]
 > Cybersyn, tarihin gördüğü en cüretkar sosyo-teknik deneylerden biriydi ve o gün betona gömülen şey sadece metal ve kablo değil, bambaşka bir internetin ihtimaliydi.
-
----
-
-**Kategori:** Teknoloji Tarihi, Sosyoloji, Sibernetik
-**Etiketler:** #Cybersyn #StaffordBeer #ChileHistory #ComputingHistory #Cybernetics #RetroFuturism #ProjectCybersyn #InternetHistory

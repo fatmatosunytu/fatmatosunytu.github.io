@@ -1,4 +1,19 @@
-# İnternet’i Özgürleştiren Çocuk: Aaron Swartz – İnternetin Evladı
+---
+title: "İnternet’i Özgürleştiren Çocuk: Aaron Swartz – İnternetin Evladı"
+date: 2026-01-16T04:44:02+03:00
+categories: ["Teknoloji Etiği", "İnternet Tarihi", "Aktivizm"]
+tags:
+  [
+    "AaronSwartz",
+    "Internet",
+    "OpenAccess",
+    "RSS",
+    "Reddit",
+    "CreativeCommons",
+    "SOPA",
+    "JSTOR",
+  ]
+---
 
 Bilgi güçtür. Ancak her güç gibi, onu sadece kendilerine saklamak isteyenler var. Bugün kullandığımız pek çok teknolojinin temelinde imzası olan, ancak bilginin özgürleşmesi için verdiği savaşta hayatını kaybeden bir dahi vardı: **Aaron Swartz.**
 
@@ -52,12 +67,7 @@ Bugün Aaron Swartz:
 
 ## Sonuç: Sorgulamanın Bedeli
 
-Aaron Swartz'ın meşhur bir sözü vardır: _"Yalnızca var olan dünyada yaşamak yetmez. Her şeyi sorgulamalı ve değiştirmeliyiz."_ O, milyoner olup Silikon Vadisi'nde rahat bir hayat sürebilirdi. Ancak o, bilginin bir azınlığın değil, tüm insanlığın malı olması gerektiğine inandı ve bu inancı uğruna her şeyi ödedi.
+Aaron Swartz'ın meşhur bir sözü vardır: _"Yalnızca var olan dünyada yaşamak yetmez. Her şeyi sorgulamalı ve değiştirmeliviz."_ O, milyoner olup Silikon Vadisi'nde rahat bir hayat sürebilirdi. Ancak o, bilginin bir azınlığın değil, tüm insanlığın malı olması gerektiğine inandı ve bu inancı uğruna her şeyi ödedi.
 
 > [!NOTE]
 > Aaron Swartz'ın hikayesini daha derinlemesine anlamak isterseniz, "The Internet's Own Boy" (İnternetin Özgür Çocuk) belgesini mutlaka izlemelisiniz.
-
----
-
-**Kategori:** Teknoloji Etiği, İnternet Tarihi, Aktivizm
-**Etiketler:** #AaronSwartz #Internet #OpenAccess #RSS #Reddit #CreativeCommons #SOPA #JSTOR

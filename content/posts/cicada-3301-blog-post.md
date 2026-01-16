@@ -1,4 +1,19 @@
-# Cicada 3301: İnternetin En Derin ve En Karanlık Bilmecesi
+---
+title: "Cicada 3301: İnternetin En Derin ve En Karanlık Bilmecesi"
+date: 2026-01-16T04:00:00+03:00
+categories: ["İnternet Gizemleri", "Kriptografi", "Hacker Kültürü"]
+tags:
+  [
+    "Cicada3301",
+    "Cryptography",
+    "Puzzle",
+    "Darknet",
+    "4chan",
+    "InternetMystery",
+    "LiberPrimus",
+    "Hacker",
+  ]
+---
 
 5 Ocak 2012'de, internetin karanlık forumlarından biri olan 4chan’de basit bir görsel paylaşıldı. Görselde beyaz bir metin ve kanatlarını açmış bir ağustos böceği (cicada) sembolü vardı. Metin şöyle diyordu:
 
@@ -47,8 +62,3 @@ Cicada 3301’in rünik yazılarla dolu **Liber Primus** (İlk Kitap) adlı 58 s
 ## Sonuç: İnternetin Modern Efsanesi
 
 Cicada 3301, dijital çağın gerçeküstü bir masalı gibidir. Bilginin sınırlarını zorlayan, kriptografiyi bir sanat haline getiren ve sessizliğin en büyük güç olduğunu hatırlatan bir bilmece. İnternetin karanlık köşelerinde, o ağustos böceği hâlâ bir yerlerde çözüm bekleyen zihinleri arıyor olabilir.
-
----
-
-**Kategori:** İnternet Gizemleri, Kriptografi, Hacker Kültürü
-**Etiketler:** #Cicada3301 #Cryptography #Puzzle #Darknet #4chan #InternetMystery #LiberPrimus #Hacker

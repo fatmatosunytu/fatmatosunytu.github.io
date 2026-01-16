@@ -1,4 +1,19 @@
-# Dünyayı Hackleyen Ülke: Kuzey Kore ve Lazarus’un Yükselişi
+---
+title: "Dünyayı Hackleyen Ülke: Kuzey Kore ve Lazarus’un Yükselişi"
+date: 2026-01-16T03:30:00+03:00
+categories: ["Siber Savaş", "Jeopolitik", "Teknoloji Tarihi"]
+tags:
+  [
+    "LazarusGroup",
+    "NorthKorea",
+    "CyberWarfare",
+    "SonyHack",
+    "WannaCry",
+    "CryptoHeist",
+    "Bureau121",
+    "DigitalArmy",
+  ]
+---
 
 Yıl 2014, Hollywood’un kalbi Los Angeles. Sony Pictures’ın sunucuları kan kırmızısı bir iskelet görseliyle kilitlendiğinde, dünya siber savaşın kurallarının sonsuza dek değiştiğine tanıklık ediyordu. Bu, sadece bir veri hırsızlığı değil; bir ulus devletin, bir komedi filmi yüzünden küresel bir deve açtığı topyekün siber savaştı.
 
@@ -38,8 +53,3 @@ Lazarus Hikayesi, modern savaşın artık tanklarla değil, klavyeyle yapıldı�
 
 > [!IMPORTANT]
 > Lazarus Grubu sadece bir suç örgütü değil; asimetrik savaşın dijital dünyadaki en keskin mızrak ucudur.
-
----
-
-**Kategori:** Siber Savaş, Jeopolitik, Teknoloji Tarihi
-**Etiketler:** #LazarusGroup #NorthKorea #CyberWarfare #SonyHack #WannaCry #CryptoHeist #Bureau121 #DigitalArmy
