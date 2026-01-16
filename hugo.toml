@@ -1,7 +1,7 @@
-baseURL = "https://slymanmrcan.github.io/Blog/"
+baseURL = "https://fatmatosunytu.github.io/"
 relativeURLs = false
 languageCode = "en"
-title = "Suleyman Mercan"
+title = "Fatma Tosun"
 
 timeZone = "UTC"
 ignoreFiles = ["\\.DS_Store$"]
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.DS_Store$"]
 
 [params]
   tagline = "Neon analog notes and longform stories."
-  description = "Suleyman Mercan's blog."
+  description = "Fatma Tosun's blog."
 
 [menu]
   [[menu.main]]
