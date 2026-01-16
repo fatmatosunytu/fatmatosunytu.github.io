@@ -1,0 +1,5 @@
+{{ $date := .Date }}
+{{ if $date.IsZero }}
+  {{ $date = .Lastmod }}
+{{ end }}
+{{ $date.Format "Jan 2, 2006" }}

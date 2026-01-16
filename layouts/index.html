@@ -1,0 +1,45 @@
+{{ define "main" }}
+<section class="hero wrap">
+  <div class="hero-content">
+    <p class="eyebrow">{{ .Site.Params.tagline }}</p>
+    <h1>{{ .Site.Title }}</h1>
+    <p class="lead">{{ .Site.Params.description }}</p>
+  </div>
+</section>
+<section class="wrap post-list">
+  <h2>Latest posts</h2>
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ $shuffled := shuffle $posts }}
+  {{ $paginator := .Paginate $shuffled 5 }}
+  {{ range $paginator.Pages }}
+    <article class="post-card">
+      <a class="post-card-link" href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        <p class="meta">{{ partial "post-date.html" . }}</p>
+        <p>{{ .Summary }}</p>
+      </a>
+    </article>
+  {{ else }}
+    <p class="empty">No posts yet. Add Markdown files to <code>content/posts</code>.</p>
+  {{ end }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+      <a class="page-link prev" href="{{ $paginator.Prev.URL }}">← Geri</a>
+    {{ else }}
+      <span class="page-link prev disabled">← Geri</span>
+    {{ end }}
+    {{ range $paginator.Pagers }}
+      {{ if eq . $paginator }}
+        <span class="page-link current">{{ .PageNumber }}</span>
+      {{ else }}
+        <a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <a class="page-link next" href="{{ $paginator.Next.URL }}">İleri →</a>
+    {{ else }}
+      <span class="page-link next disabled">İleri →</span>
+    {{ end }}
+  </nav>
+</section>
+{{ end }}

@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="wrap post">
+  <div class="post-back">
+    <a class="back-link" href="{{ "/posts/" | relURL }}">← Listeye dön</a>
+  </div>
+  <header class="post-header">
+    <p class="eyebrow">{{ .Section | title }}</p>
+    <h1>{{ .Title }}</h1>
+    <div class="post-meta">
+      <p class="meta">{{ partial "post-date.html" . }}</p>
+      <span class="meta">·</span>
+      <p class="meta">{{ .ReadingTime }} min read</p>
+    </div>
+    {{ with .Params.tags }}
+      <ul class="tags">
+        {{ range . }}
+          <li><a href="{{ "tags" | relURL }}/{{ . | urlize }}/">#{{ . }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </header>
+  {{ with .TableOfContents }}
+    <aside class="toc">
+      <p class="toc-title">Contents</p>
+      {{ . }}
+    </aside>
+  {{ end }}
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+  <div class="post-footer">
+    <a class="nav-link" href="{{ "/posts/" | relURL }}">← Listeye dön</a>
+  </div>
+</article>
+{{ end }}

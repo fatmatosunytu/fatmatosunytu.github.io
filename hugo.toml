@@ -1,0 +1,32 @@
+baseURL = "https://slymanmrcan.github.io/Blog/"
+languageCode = "en"
+title = "Suleyman Mercan"
+
+timeZone = "UTC"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  tagline = "Neon analog notes and longform stories."
+  description = "Suleyman Mercan's blog."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+# Uncomment to enable multi-language structure.
+# [languages]
+#   [languages.en]
+#     languageName = "English"
+#     weight = 1
+#   [languages.tr]
+#     languageName = "Turkish"
+#     weight = 2
