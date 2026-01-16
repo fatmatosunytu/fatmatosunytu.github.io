@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="wrap post">
   <div class="post-back">
-    <a class="back-link" href="{{ "/posts/" | relURL }}">← Listeye dön</a>
+    <a class="back-link" href="{{ "posts/" | relURL }}">← Listeye dön</a>
   </div>
   <header class="post-header">
     <p class="eyebrow">{{ .Section | title }}</p>
@@ -14,7 +14,7 @@
     {{ with .Params.tags }}
       <ul class="tags">
         {{ range . }}
-          <li><a href="{{ "tags" | relURL }}/{{ . | urlize }}/">#{{ . }}</a></li>
+          <li><a href="{{ "tags/" | relURL }}{{ . | urlize }}/">#{{ . }}</a></li>
         {{ end }}
       </ul>
     {{ end }}
@@ -29,7 +29,7 @@
     {{ .Content }}
   </div>
   <div class="post-footer">
-    <a class="nav-link" href="{{ "/posts/" | relURL }}">← Listeye dön</a>
+    <a class="nav-link" href="{{ "posts/" | relURL }}">← Listeye dön</a>
   </div>
 </article>
 {{ end }}

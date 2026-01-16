@@ -17,11 +17,11 @@ ignoreFiles = ["\\.DS_Store$"]
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = ""
     weight = 1
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = "posts/"
     weight = 2
 
 # Uncomment to enable multi-language structure.
