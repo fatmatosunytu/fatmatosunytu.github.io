@@ -3,6 +3,7 @@ languageCode = "en"
 title = "Suleyman Mercan"
 
 timeZone = "UTC"
+ignoreFiles = ["\\.DS_Store$"]
 
 [taxonomies]
   tag = "tags"
