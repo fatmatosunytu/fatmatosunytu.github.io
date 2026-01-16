@@ -5,7 +5,6 @@
   end }}
 </title>
 <meta name="description" content="{{ .Site.Params.description }}" />
-<link rel="icon" href="{{ "/favicon.svg" | relURL }}" type="image/svg+xml">
-<link rel="stylesheet" href="{{ "/css/main.css" | relURL }}"> <link
-rel="alternate" type="application/rss+xml" href="{{ "/index.xml" | relURL }}"
-title="{{ .Site.Title }}">
+<link rel="icon" href="{{ "/favicon.svg" | absURL }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ "/css/main.css" | absURL }}">
+<link rel="alternate" type="application/rss+xml" href="{{ "/index.xml" | absURL }}" title="{{ .Site.Title }}">

@@ -1,4 +1,5 @@
 baseURL = "https://slymanmrcan.github.io/Blog/"
+canonifyURLs = true
 languageCode = "en"
 title = "Suleyman Mercan"
 
