@@ -1,6 +1,6 @@
 ---
 title: "Merhaba Dünya: Yeni Başlangıçlar"
-date: 2026-01-17
+date: 2026-01-15
 draft: false
 tags: ["kişisel", "biyomühendislik"]
 ---
