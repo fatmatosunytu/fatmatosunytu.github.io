@@ -1,7 +1,7 @@
 baseURL = "https://fatmatosunytu.github.io/"
 relativeURLs = false
 languageCode = "en"
-title = "Fatma Tosun"
+title = "Bio_Code <- Cosmos"
 
 timeZone = "UTC"
 ignoreFiles = ["\\.DS_Store$"]
@@ -11,8 +11,8 @@ ignoreFiles = ["\\.DS_Store$"]
   category = "categories"
 
 [params]
-  tagline = "Neon analog notes and longform stories."
-  description = "Bio_Code <- Cosmos "
+  tagline = "Biyoinformatik ve Evren"
+  description = "GitHub arşivi ve repo incelemeleri"
 
 [menu]
   [[menu.main]]
