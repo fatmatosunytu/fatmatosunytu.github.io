@@ -12,7 +12,7 @@ ignoreFiles = ["\\.DS_Store$"]
 
 [params]
   tagline = "Neon analog notes and longform stories."
-  description = "Fatma Tosun's blog."
+  description = "Bio_Code <- Cosmos "
 
 [menu]
   [[menu.main]]
