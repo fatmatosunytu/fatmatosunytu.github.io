@@ -1,7 +1,7 @@
 baseURL = "https://fatmatosunytu.github.io/"
 relativeURLs = false
 languageCode = "en"
-title = "Bio_Code <- Cosmos"
+title = "Bio_Code<-Cosmos"
 
 timeZone = "UTC"
 ignoreFiles = ["\\.DS_Store$"]
