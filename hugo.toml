@@ -13,6 +13,7 @@ ignoreFiles = ["\\.DS_Store$"]
 [params]
   tagline = "Biyoinformatik ve Evren"
   description = "GitHub arşivi ve repo incelemeleri"
+  avatar = "image (2).png"
 
 [menu]
   [[menu.main]]
