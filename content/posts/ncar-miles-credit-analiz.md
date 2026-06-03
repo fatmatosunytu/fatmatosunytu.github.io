@@ -14,33 +14,6 @@ description: "NSF NCAR tarafından geliştirilen MILES CREDIT platformunun tekni
 
 ---
 
-## 🛠️ BLOG ENTEGRASYON VE KURULUM REHBERİ
-*Bu bölüm, bu analizin terminal/monospace temalı Hugo bloğuna (fatmatosunytu.github.io) nasıl entegre edileceğini adım adım açıklamaktadır.*
-
-### 1. Yeni İçerik Oluşturma ve Dosya Yapısı
-Bloğunuzdaki `content/posts/` klasörü, Hugo'nun yazıları ve sayfaları yönettiği ana dizindir. Yeni bir yazı dosyası oluştururken terminal temasına tam uyum sağlaması için dosya isimlendirmesinde küçük harfler ve tire işareti kullanılmalıdır.
-*   **Dosya Yolu:** `content/posts/ncar-miles-credit-analiz.md`
-*   **Manuel Komut (Lokal Çalışanlar İçin):**
-    ```bash
-    hugo new posts/ncar-miles-credit-analiz.md
-    ```
-
-### 2. Front-Matter (Üst Bilgi) Yapılandırması
-Yeni oluşturulan Markdown dosyasının en üst kısmındaki YAML seçicileri, temanın yazıyı kategorize etmesini, etiketlemesini ve SEO meta açıklamalarını doğru işlemesini sağlar:
-*   `title`: Arama motorlarında ve blog ana sayfasında görünecek başlık.
-*   `date`: Yayın tarihi (Bugünün tarihi: 2026-06-03).
-*   `draft`: `false` olarak ayarlandığında, GitHub Actions tetiklendiği an yazı doğrudan yayına alınır.
-
-### 3. Tema ve Görsel Stratejisi
-*   **Yazı Tipi ve Biçimlendirme:** Monospace/Terminal temalarında kod blokları (bash, python, yaml), ASCII diyagramlar ve temiz sınır hatlarına sahip Markdown tabloları en yüksek görsel performansı sunar.
-*   **GitHub Dinamik Kartları (Opsiyonel):** Repo özetini görselleştirmek amacıyla `github-readme-stats` kartları kullanılabilir, ek yerel görsel yüklemeye gerek kalmaz. Eğer statik bir kapak görseli eklenmek istenirse:
-    ```bash
-    mkdir -p static/images
-    # Görsel static/images/miles-credit-cover.png altına yerleştirilir ve front-matter'a 'image: "/images/miles-credit-cover.png"' eklenir.
-    ```
-
----
-
 ## 📋 PROJE ANALİZİ
 
 ## Proje Nedir?
