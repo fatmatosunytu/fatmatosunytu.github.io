@@ -56,7 +56,7 @@ Sistem, istemci donanımından toplanan hücresel ve kablosuz ağ sinyallerini b
 * **Güçlü Yönler:** Anlaşılması ve çalıştırılması 2 dakika süren, sıfır karmaşıklığa sahip bir yapıya sahiptir.
 * **Zayıf Yönler:** Proje tamamen ham bir örnek olduğu için üretim ortamına (production-ready) uygun hiçbir savunma mekanizması içermez. Sinyal verisi boş veya hatalı geldiğinde hata yakalama (try-catch) blokları yetersizdir. Google API'sinin kota sınırları (rate limits) veya network timeout durumları yönetilmemiştir.
 
-### PART 4 — Main Outputs (Ana Çıktılar)
+### PART 4 — Main Outputs 
 
 Projenin tek çıktısı, Google sunucularından dönen lokasyon nesnesidir.
 
