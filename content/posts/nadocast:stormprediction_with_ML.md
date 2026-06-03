@@ -35,6 +35,8 @@ description: "NOAA Storm Prediction Center tarafından deneysel rehber olarak ku
 
 ### PART 3 — Methodology and Technical Contribution 
 
+---
+
 #### Teknik Metot ve Veri Akışı
 
 Sistem, ham meteorolojik grid verilerini alır ve derin öğrenmenin uzamsal yeteneklerini taklit etmek için yoğun bir el yapımı özellik mühendisliği döngüsü uygular:
@@ -61,6 +63,7 @@ Sistem, ham meteorolojik grid verilerini alır ve derin öğrenmenin uzamsal yet
  [ Çıktı Üretimi & Dağıtım ] (NetCDF, BSON Tahmin Haritaları, Veri Görselleştirici)
 
 ```
+---
 
 ## Yenilikçi Katkılar & Güçlü Yönler
 
