@@ -2,5 +2,4 @@
 Protokol: Model Context Protocol (MCP)
 Lisans: MIT
 Durum: Aktif / Otonom Ajan Entegrasyonuna Hazır
-📋 EXECUTIVE SUMMARY Nesnel bir stratejist olarak bakıldığında, cablate/mcp-google-map reposu mimari bir başyapıt değil; pragmatik ve zamanlaması mükemmel bir &amp;ldquo;köprü&amp;rdquo; projesidir. Anthropic&amp;rsquo;in Model Context Protocol (MCP) standardını kullanarak Büyük Dil Modellerinin (LLM&amp;rsquo;ler) fiziksel dünya verilerine (Google Maps) erişmesini sağlar.
-Bir önceki analiz ettiğimiz google-maps-services-js resmi kütüphanesinin üzerine inşa edilmiş ince bir entegrasyon katmanından (wrapper) ibarettir.</description></item></channel></rss>
+🔍 TECHNICAL REVIEW PART 1 — Project Overview Bu proje hangi problemi çözmektedir? LLM&amp;rsquo;lerin (örneğin Claude) gerçek zamanlı, doğru ve güncel coğrafi verilere, rotalara ve mekan bilgilerine doğrudan erişememesi problemini çözer. Hedef kullanıcı kitlesi kimdir? Yapay zeka ajanı geliştiren mühendisler, otonom sistem mimarları ve Claude Desktop gibi MCP destekli istemcileri kullanan ileri düzey son kullanıcılar.</description></item></channel></rss>
