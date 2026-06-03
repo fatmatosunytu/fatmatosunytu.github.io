@@ -38,7 +38,7 @@ description: "Anthropic'in Model Context Protocol (MCP) standardını kullanarak
 * **Teknik Metot:** Sistem, LLM'e 4 temel aracı (`maps_geocode`, `maps_directions`, `maps_places`, `maps_elevation`) deklare eder. LLM bir lokasyon bilgisine ihtiyaç duyduğunda bu araçları argümanlarla (JSON) çağırır. Node.js sunucusu bu çağrıyı Google Maps API'sine iletir, sonucu alır ve LLM'e text/json formatında geri döndürür.
 * **Yenilikçi Katkılar:** Temel seviyede bir yenilik barındırmaz. En büyük katkısı, yeni çıkan MCP ekosistemine hızlı reaksiyon gösterip açık kaynak topluluğuna çalışan bir boilerplate (şablon) sunmuş olmasıdır. Araştırma değeri yoktur, tamamen pratik uygulama değerine sahiptir.
 * **Güçlü Yönler:** Kurulumu son derece basittir. Google'ın resmi istemcisini kullandığı için tip güvenliği (type safety) tamdır.
-* **Zayıf Yönler:** Caching (önbellekleme) mekanizması yoktur, bu da aynı sorgularda gereksiz API maliyeti yaratır. Hata yönetimi (error handling) yüzeyseldir; Google API'sinden dönen limit aşımları LLM'e ham bir şekilde iletilir. Teknik borç olarak, rate-limiting stratejisi eksiktir.
+* **Zayıf Yönler:** Caching (önbellekleme) mekanizması yoktur, bu da aynı sorgularda gereksiz API maliyeti yaratır. Hata yönetimi (error handling) yüzeyseldir; Google API'sinden dönen limit aşımları LLM'e ham bir şekilde iletilir. Teknik olarak, rate-limiting stratejisi eksiktir.
 
 ### PART 4 — Main Outputs
 
