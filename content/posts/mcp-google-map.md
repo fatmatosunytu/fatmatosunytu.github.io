@@ -153,8 +153,8 @@ Eğer bu repoyu portfolyonuzda ciddi bir mühendislik örneği olarak sunacaksan
 
 * **Dokümantasyona Mimari Ekleyin:** README'ye LLM, MCP Sunucusu ve Google Maps arasındaki iletişimi gösteren basit bir Mermaid.js sekans diyagramı ekleyin. Kodu okumayan bir yatırımcı/yönetici bile sistemin nasıl çalıştığını 5 saniyede anlamalıdır.
 
-Bu entegrasyon kılavuzu ve teknik analiz, Bio_Code<-Cosmos GitHub repo inceleme serisi kapsamında tek bir gövdede birleştirilerek yapılandırılmıştır.
+---
+
+*Bu analiz ve entegrasyon kılavuzu, [Bio_Code<-Cosmos](https://fatmatosunytu.github.io) GitHub repo inceleme serisi kapsamında hazırlanmıştır.*
 
 #mcp #google-maps #typescript #nodejs #api #açık-kaynak #arka-uç
-
----
