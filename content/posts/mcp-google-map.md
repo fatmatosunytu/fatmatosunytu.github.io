@@ -12,13 +12,6 @@ description: "Anthropic'in Model Context Protocol (MCP) standardını kullanarak
 > **Lisans:** MIT  
 > **Durum:** Aktif / Otonom Ajan Entegrasyonuna Hazır  
 
-
-## 📋 EXECUTIVE SUMMARY
-
-Nesnel bir stratejist olarak bakıldığında, `cablate/mcp-google-map` reposu mimari bir başyapıt değil; pragmatik ve zamanlaması mükemmel bir "köprü" projesidir. Anthropic'in Model Context Protocol (MCP) standardını kullanarak Büyük Dil Modellerinin (LLM'ler) fiziksel dünya verilerine (Google Maps) erişmesini sağlar.
-
-Bir önceki analiz ettiğimiz `google-maps-services-js` resmi kütüphanesinin üzerine inşa edilmiş ince bir entegrasyon katmanından (wrapper) ibarettir. Teknik derinliği sığdır, ancak kullanım değeri (utility) yüksektir. LLM'lerin statik bilgi hapishanesinden çıkıp dinamik coğrafi araçları kullanabilmesi için gerekli olan tesisat işini (plumbing) yapar. Bu depoyu portfolyonuza eklerken "karmaşık bir sistem mimarisi" olarak değil, "yeni nesil yapay zeka ajan (agent) ekosistemlerine hızlı adaptasyon ve entegrasyon" yeteneğinizin bir göstergesi olarak konumlandırmalısınız. Aksi takdirde, teknik derinlik eksikliği bir zafiyet olarak algılanabilir.
-
 ---
 
 ## 🔍 TECHNICAL REVIEW
@@ -78,17 +71,6 @@ Projenin README'si işlevsel ancak vizyonsuz. Geliştirici sadece neyin nasıl k
 
 ---
 
-## 🚀 STARTUP POTENTIAL ANALYSIS
-
-Kendimizi kandırmayalım: **Bu projenin sıfır girişim (startup) potansiyeli var.**
-Bu bir ürün değil, bir eklentidir (plugin). Bir matkap ucu için şirket kurulmaz; matkap ucu, büyük bir inşaat firmasının (SaaS) kullandığı binlerce araçtan sadece biridir.
-
-* **Ticari Kullanım:** Doğrudan ticari kullanıma uygun değildir, çünkü herhangi bir IP (Fikri Mülkiyet) veya veri hendeği (moat) barındırmaz. Herhangi bir orta seviye mühendis aynı entegrasyonu birkaç saatte yazabilir.
-* **SaaS'a Dönüşebilir mi?:** Hayır. Ancak bu MCP sunucusunu kullanan "Otonom Lojistik Ajanı" veya "Yapay Zeka Tabanlı Tur Operatörü" gibi üst katman uygulamalar SaaS'a dönüşebilir.
-* **Stratejik Hamle:** Açık kaynak olarak kalmalı. Geliştirici, bu tür popüler API'lerin MCP versiyonlarını ilk yazan kişi olarak ekosistemde itibar kazanabilir ve yapay zeka şirketlerinde danışman/mimar rolleri için bu repoyu bir kaldıraç olarak kullanabilir.
-
----
-
 ## 💼 GITHUB PORTFOLIO CARD ASSETS
 
 ### Kısa Tanıtım
@@ -102,18 +84,6 @@ Bu bir ürün değil, bir eklentidir (plugin). Bir matkap ucu için şirket kuru
 Bu proje, statik Büyük Dil Modelleri ile fiziksel dünya verileri arasında kurduğum pragmatik bir köprüdür. Anthropic'in Model Context Protocol (MCP) standardını kullanarak, yapay zeka ajanlarının Google Maps API'sini otonom ve tip güvenli (type-safe) bir şekilde kullanmasını sağladım. Geliştirdiğim bu sunucu; adres çözümleme, rota optimizasyonu, rakım analizi ve mekan sorgulama araçlarını doğrudan LLM'in mantık yürütme süreçlerine entegre eder.
 
 Buradaki temel mühendislik yaklaşımım, tekerleği yeniden icat etmek yerine resmi Google Maps Node.js SDK'sını, yeni nesil AI-ajan iletişim standartlarıyla (stdio tabanlı JSON-RPC) kusursuzca sarmalamaktır (wrapper architecture). Bu proje, otonom yapay zeka ekosistemlerinin ihtiyaç duyduğu altyapı araçlarını hızla inşa etme ve "Agentic AI" mimarilerine adaptasyon yeteneğimi temsil etmektedir.
-
----
-
-## 💡 IMPROVEMENT RECOMMENDATIONS 
-
-Eğer bu repoyu portfolyonuzda ciddi bir mühendislik örneği olarak sunacaksanız, şu kör noktaları acilen gidermeniz gerekir:
-
-* **Redis veya In-Memory Caching Ekleyin:** LLM'ler aynı lokasyon verisini tekrar tekrar sorgulama eğilimindedir. Her sorgunun doğrudan Google'a gitmesi API bütçesini tüketir. Araya bir TTL (Time-to-Live) tabanlı önbellek mekanizması ekleyerek performans optimizasyonu konusundaki farkındalığınızı gösterin.
-
-* **Rate Limiting ve Circuit Breaker (Devre Kesici):** LLM bir loop'a girip saniyede 50 istek atmaya çalışırsa ne olacak? Sistem şu an korumasız. Hata fırlatmak yerine "Exponential Backoff" ve devre kesici uygulayarak sistem dayanıklılığını (resilience) artırın.
-
-* **Dokümantasyona Mimari Ekleyin:** README'ye LLM, MCP Sunucusu ve Google Maps arasındaki iletişimi gösteren basit bir Mermaid.js sekans diyagramı ekleyin. Kodu okumayan bir yatırımcı/yönetici bile sistemin nasıl çalıştığını 5 saniyede anlamalıdır.
 
 ---
 
