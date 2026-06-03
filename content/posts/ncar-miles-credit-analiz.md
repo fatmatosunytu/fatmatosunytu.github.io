@@ -39,3 +39,14 @@ pip install miles-credit
 
 # Hemen çalıştır:
 credit ask "neden kayıp değerim düşmüyor?"
+
+
+---
+
+## 🛠️ EK: NCAR/miles-credit Analiz Yazısı — Kullanım Kılavuzu
+
+```toml
+[dosya_yapisi]
+dosya_adi = "ncar-miles-credit-analiz.md"
+format    = "Hugo Markdown (Front-Matter Destekli)"
+tema      = "Terminal / Monospace Uyumlu"
