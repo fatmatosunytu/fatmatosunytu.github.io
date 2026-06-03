@@ -60,6 +60,8 @@ Sistem, ham meteorolojik grid verilerini alır ve derin öğrenmenin uzamsal yet
              ▼
  [ Çıktı Üretimi & Dağıtım ] (NetCDF, BSON Tahmin Haritaları, Veri Görselleştirici)
 
+```
+
 ## Yenilikçi Katkılar & Güçlü Yönler
 
 * **Yüksek Bellek Verimliliği:** `MemoryConstrainedTreeBoosting.jl` kullanımı sayesinde, RAM kapasitesini aşan devasa ızgara (grid) verileri MPI (Message Passing Interface) desteğiyle dağıtık olarak eğitilebilir.
