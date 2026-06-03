@@ -109,7 +109,7 @@ client
 
 ## ⚖️ GÜÇLÜ VE ZAYIF YÖNLER
 * **Güçlü Yönler:** Soyut konfigürasyon enjeksiyonu sayesinde yüksek modülerlik (decoupling). Geliştiriciler; kurumsal sertifikaları, proxy'leri veya özel takip header'larını entegre etmek için kütüphaneye önceden yapılandırılmış Axios örnekleri enjekte edebilirler.
-* **Kırılganlıklar (Teknik Borç):** Axios ile olan sıkı entegrasyon, geliştiricileri Axios'a özel yaşam döngüsü modellerine bağımlı kılar. Eğer bir sunucu altyapısı tamamen yerel `fetch` veya `undici` standartlarını benimsiyorsa, bu paket projeye fazladan Axios bağımlılık yükü getirmektedir.
+* **Zayıf Yönler:** Axios ile olan sıkı entegrasyon, geliştiricileri Axios'a özel yaşam döngüsü modellerine bağımlı kılar. Eğer bir sunucu altyapısı tamamen yerel `fetch` veya `undici` standartlarını benimsiyorsa, bu paket projeye fazladan Axios bağımlılık yükü getirmektedir.
 
 ---
 
@@ -130,14 +130,14 @@ Depo, otomatik doğrulama süreçleriyle desteklenen olağanüstü bir dokümant
 
 ---
 
-## 🚀 Girişim ve Ürün Değerlendirmesi (Startup Potential Analysis)
+## 🚀 Girişim ve Ürün Değerlendirmesi 
 * **SaaS Potansiyeli:** Resmi bir istemci SDK'sı olan bu ürün, temel olarak Google'ın veri altyapısına erişim sağlayan fonksiyonel bir sürücü olduğundan, bağımsız bir SaaS olarak doğrudan monetize edilemez (gelire dönüştürülemez).
 * **Ticari Ekosistem (Dolaylı Potansiyel):** Bu paket, kurumsal çözümler üretebilmek için büyük bir kolaylaştırıcıdır. Girişimler; lojistik sektöründeki mevcut oyunculara meydan okumak adına bu kütüphaneyi kullanarak yüksek değerli yerelleştirilmiş veri hatları, özel coğrafi çit (geofencing) otomasyon katmanları veya rota optimizasyon algoritmaları inşa edebilirler.
 * **Alternatif Ekosistem Riskleri:** Mapbox (Mapbox SDK'ları aracılığıyla) ve OpenStreetMap (topluluk üretimi Node araçları aracılığıyla) daha ucuz veri alternatifleri sunmaktadır. Ancak Google Maps'in sahip olduğu yüksek ilgi noktası (POI) doğruluğu, bu SDK'yı kurumsal yazılım mimarileri için varsayılan standart haline getirmektedir.
 
 ---
 
-## 💡 Geliştirme Önerileri (Improvement Recommendations)
+## 💡 Geliştirme Önerileri 
 1. **Bağımlılık Modülerliği (HTTP Katmanının Soyutlanması):** Mevcut varsayılan `AxiosClient` modelinin yanına entegre edilebilecek dahili bir `FetchHTTPClient` yapısı sunulmalıdır. Bu sayede Cloudflare Workers, Bun veya sunucusuz (serverless) fonksiyonlar gibi modern çalışma ortamları, projelerine ekstra Axios bağımlılık yükü eklemeden bu SDK'yı yerel olarak çalıştırabilir.
 2. **Yerleşik Devre Kesici (Circuit Breaker) Deseni:** Üstel geri çekilme mekanizması geçici istek sınır aşımlarını yönetebilse de, kütüphaneye eklenecek durum bilgisi olan (stateful) yerleşik bir devre kesici mimarisi; API anahtarının günlük bütçe sınırlarına ulaştığı anlarda alt servislerin boş yere dış istek atmasını tamamen durdurarak operasyonel bulut maliyetlerini koruyabilir.
 3. **Modern İzlenebilirlik (Observability & Tracing):** Client sınıfına doğrudan OpenTelemetry kancaları (hooks) entegre edilmelidir. Bu geliştirme, kurumsal mimarilerin Prometheus veya Datadog gibi izleme araçları üzerinden Google Maps API gecikme (latency) trendlerine ve istek başarısızlık oranlarına doğrudan ve kutudan çıktığı haliyle tam görünürlük kazanmasını sağlar.
