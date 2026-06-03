@@ -105,44 +105,6 @@ Buradaki temel mühendislik yaklaşımım, tekerleği yeniden icat etmek yerine 
 
 ---
 
-## 💾 READY-TO-COPY MARKDOWN CODE
-
-```markdown
-### Repository Overview: MCP Google Maps Integration
-
-**Problem Solved:** Overcomes the limitation of LLMs' inability to access real-time geographical, routing, and topographical data by providing a standardized Model Context Protocol (MCP) server interface for Google Maps.
-
-**Tech Stack:** `TypeScript`, `Node.js`, `@modelcontextprotocol/sdk`, `Google Maps Services JS`.
-
-**Key Contributions:**
-* Implemented a zero-config `stdio` MCP server exposing core Google Maps utilities.
-* Standardized 4 LLM-consumable tools: Geocoding, Directions, Places API, and Elevation API.
-* Demonstrated rapid adoption and integration of emerging AI orchestration protocols (Anthropic MCP).
-
-**Main Outputs:**
-* Stateless JSON-RPC tool schemas dynamically consumable by Claude Desktop and LangChain ecosystems.
-* Seamless translation of natural language geographic queries into executed Google Maps API parameters.
-
-**Documentation Quality:** Scored **4.4/10**. Excellent installation instructions for Claude Desktop, but lacks architectural system diagrams and LLM prompt engineering examples.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cablate&repo=mcp-google-map&theme=transparent)
-
-### GitHub Dynamic Card Options
-
-#### Repo Card Link
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cablate&repo=mcp-google-map&theme=transparent)](https://github.com/cablate/mcp-google-map)
-
-#### Grid Layout Example
-<div align="center">
-
-[![MCP Maps](https://github-readme-stats.vercel.app/api/pin/?username=cablate&repo=mcp-google-map&theme=transparent)](https://github.com/cablate/mcp-google-map)
-[![Google Maps SDK](https://github-readme-stats.vercel.app/api/pin/?username=googlemaps&repo=google-maps-services-js&theme=transparent)](https://github.com/googlemaps/google-maps-services-js)
-
-</div>
-
-
----
-
 ## 💡 IMPROVEMENT RECOMMENDATIONS 
 
 Eğer bu repoyu portfolyonuzda ciddi bir mühendislik örneği olarak sunacaksanız, şu kör noktaları acilen gidermeniz gerekir:
